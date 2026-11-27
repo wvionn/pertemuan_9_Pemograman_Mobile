@@ -1,6 +1,6 @@
 # pert9_praktikum
 
-A new Flutter project.
+Link deploy vercel pertemuan9pemogramanmobile.vercel.app
 
 ## Getting Started
 
