@@ -1,6 +1,6 @@
 # pert9_praktikum
 
-Link deploy vercel pertemuan9pemogramanmobile.vercel.app
+Link deploy vercel https://pertemuan9pemogramanmobile.vercel.app/
 
 ## Getting Started
 
